@@ -56,4 +56,4 @@
 ![](pictures_results/text_filtered.bmp)
 
 Разница 
-![](differential_pictures/chess_diff_5_20.bmp)
+![](differential_pictures/text_filtered.bmp)
