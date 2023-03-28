@@ -1,25 +1,22 @@
 # Лабораторная работа №3. Фильтрация бинарных изображений. (Ранговым методом)
 
-## Бинарное изображение Джоконты
+## Бинарное изображение Карты
 Исходное изображение:
 
-![](pictures_src/face.bmp)
+![](pictures_src/karta2.bmp)
 
-Фильрация(Размер окна w == 5, ранг r == 10/25)
-
-![](pictures_results/face_filtered_4.bmp)
 
 Фильрация(Размер окна w == 5, ранг r == 15/25)
 
-![](pictures_results/face_filtered_1.bmp)
+![](pictures_results/karta215.bmp)
 
-Фильрация(Размер окна w == 5, ранг r == 17/25)
+Фильрация(Размер окна w == 5, ранг r == 18/25)
 
-![](pictures_results/face_filtered_2.bmp)
+![](pictures_results/karta218.bmp)
 
 Фильрация(Размер окна w == 5, ранг r == 20/25)
 
-![](pictures_results/face_filtered_3.bmp)
+![](pictures_results/karta220.bmp)
 
 ## Бинарное изобаржение шахматной доски:
 Исходное изображение:
