@@ -40,13 +40,18 @@
 
 ## Бинаризованное изображение ручного рисунка
 Исходное изображение:
-![](pictures_src/house_bin.bmp)
+![](pictures_src/parisbin.bmp)
 
 Фильтрация(Размер окна w == 5, ранг r == 17/25)
-![](pictures_results/house_filtered.bmp)
+![](pictures_results/paris_17.bmp)
 
+Фильтрация(Размер окна w == 5, ранг r == 20/25)
+![](pictures_results/paris_20.bmp)
+
+Фильтрация(Размер окна w == 5, ранг r == 23/25)
+![](pictures_results/paris_23.bmp)
 Разница 
-![](differential_pictures/house_filtered.bmp)
+![](differential_pictures/parisbin.bmp)
 
 ## Бинаризованное фото текста
 Исходное изображение: 
